@@ -1,0 +1,53 @@
+F:\401\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csprojAssemblyReference.cache
+F:\401\DigitalMusicAnalysis\obj\Debug\MainWindow.g.cs
+F:\401\DigitalMusicAnalysis\obj\Debug\App.g.cs
+F:\401\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+F:\401\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+F:\401\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe.config
+F:\401\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.exe
+F:\401\DigitalMusicAnalysis\bin\Debug\DigitalMusicAnalysis.pdb
+F:\401\DigitalMusicAnalysis\bin\Debug\NAudio.dll
+F:\401\DigitalMusicAnalysis\bin\Debug\NAudio.xml
+F:\401\DigitalMusicAnalysis\obj\Debug\MainWindow.baml
+F:\401\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.g.resources
+F:\401\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+F:\401\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+F:\401\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+F:\401\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+F:\401\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.exe
+F:\401\DigitalMusicAnalysis\obj\Debug\DigitalMusicAnalysis.pdb
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\bin\Debug\DigitalMusicAnalysis.exe.config
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\bin\Debug\DigitalMusicAnalysis.exe
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\bin\Debug\DigitalMusicAnalysis.pdb
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\bin\Debug\NAudio.dll
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\bin\Debug\NAudio.xml
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.csprojAssemblyReference.cache
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\MainWindow.g.cs
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\App.g.cs
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\MainWindow.baml
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.g.resources
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.exe
+C:\Users\Arik\Desktop\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.pdb
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\bin\Debug\DigitalMusicAnalysis.exe.config
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\bin\Debug\DigitalMusicAnalysis.exe
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\bin\Debug\DigitalMusicAnalysis.pdb
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\bin\Debug\NAudio.dll
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\bin\Debug\NAudio.xml
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.csprojAssemblyReference.cache
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\MainWindow.g.cs
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\App.g.cs
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis_MarkupCompile.cache
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis_MarkupCompile.lref
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\MainWindow.baml
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.g.resources
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.Properties.Resources.resources
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.csproj.GenerateResource.cache
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.csproj.CopyComplete
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.exe
+F:\Semester 2 2019\CAB401\Assessment\n963567_cab401_parallelization\DigitalMusicAnalysis_SEQUENTIAL\obj\Debug\DigitalMusicAnalysis.pdb
